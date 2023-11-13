@@ -5,3 +5,8 @@ cdninstagram.com
 fb.com
 messenger.com
 theins.ru
+twitter.com
+x.com
+chat.openai.com
+ads-api.twitter.com
+contabo.com
