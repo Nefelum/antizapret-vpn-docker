@@ -10,3 +10,6 @@ x.com
 ads-api.twitter.com
 contabo.com
 privateinternetaccess.com
+de-frankfurt.privacy.network
+de-berlin.privacy.network
+privacy.network
