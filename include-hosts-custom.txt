@@ -9,3 +9,4 @@ twitter.com
 x.com
 ads-api.twitter.com
 contabo.com
+blur.io
