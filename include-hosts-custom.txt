@@ -10,3 +10,5 @@ x.com
 ads-api.twitter.com
 contabo.com
 blur.io
+vitals.vercel-insights.com
+vercel-insights.com
