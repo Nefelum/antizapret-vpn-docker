@@ -12,3 +12,5 @@ contabo.com
 blur.io
 vitals.vercel-insights.com
 vercel-insights.com
+app.oamo.io
+oamo.io
