@@ -15,3 +15,5 @@ vercel-insights.com
 app.oamo.io
 oamo.io
 lu.ma
+quasar.fi
+upwork.com
