@@ -17,4 +17,6 @@ oamo.io
 lu.ma
 quasar.fi
 upwork.com
+namada.net
+rpgfdrop.namada.net
 quicknode.com
