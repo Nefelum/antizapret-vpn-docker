@@ -22,3 +22,5 @@ rpgfdrop.namada.net
 quicknode.com
 hashicorp.com
 releases.hashicorp.com
+terraform.io
+registry.terraform.io
