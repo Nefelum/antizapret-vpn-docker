@@ -20,3 +20,5 @@ upwork.com
 namada.net
 rpgfdrop.namada.net
 quicknode.com
+hashicorp.com
+releases.hashicorp.com
