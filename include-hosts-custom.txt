@@ -24,3 +24,4 @@ hashicorp.com
 releases.hashicorp.com
 terraform.io
 registry.terraform.io
+nftb.io
