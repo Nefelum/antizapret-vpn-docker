@@ -25,3 +25,4 @@ releases.hashicorp.com
 terraform.io
 registry.terraform.io
 nftb.io
+ondo.finance
