@@ -26,3 +26,4 @@ terraform.io
 registry.terraform.io
 nftb.io
 ondo.finance
+ondo.foundation
