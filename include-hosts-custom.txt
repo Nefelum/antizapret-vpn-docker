@@ -30,3 +30,6 @@ ondo.foundation
 artio.faucet.berachain.com
 artio.com
 berachain.com
+artio.bex.berachain.com
+artio.honey.berachain.com
+artio.*
