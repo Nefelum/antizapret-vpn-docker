@@ -27,3 +27,6 @@ registry.terraform.io
 nftb.io
 ondo.finance
 ondo.foundation
+artio.faucet.berachain.com
+artio.com
+berachain.com
