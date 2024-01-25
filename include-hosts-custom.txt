@@ -33,3 +33,8 @@ berachain.com
 artio.bex.berachain.com
 artio.honey.berachain.com
 artio.*
+airdrop.altlayer.io
+altlayer.io
+*.altlayer.io
+*.altlayer.io.*
+altlayer.io.*
